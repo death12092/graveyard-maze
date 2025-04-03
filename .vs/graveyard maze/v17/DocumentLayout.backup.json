@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\joshua cotton\\github\\graveyard maze\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|d:\\joshua cotton\\github\\graveyard maze\\assets\\player\\script\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|d:\\joshua cotton\\github\\graveyard maze\\assets\\ui\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|d:\\joshua cotton\\github\\graveyard maze\\assets\\ui\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|D:\\joshua cotton\\github\\graveyard maze\\assets\\player\\script\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|solutionrelative:assets\\player\\script\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|D:\\joshua cotton\\github\\graveyard maze\\assets\\ui\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD6D4AD-D848-DF67-D7A5-C30EFCE132CF}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "pause.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\ui\\pause.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\pause.cs",
+              "ToolTip": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\ui\\pause.cs",
+              "RelativeToolTip": "Assets\\ui\\pause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:38:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "load.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\ui\\load.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\load.cs",
+              "ToolTip": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\ui\\load.cs",
+              "RelativeToolTip": "Assets\\ui\\load.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:17:38.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "movement.cs",
               "DocumentMoniker": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\Player\\script\\movement.cs",
               "RelativeDocumentMoniker": "Assets\\Player\\script\\movement.cs",
               "ToolTip": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\Player\\script\\movement.cs",
               "RelativeToolTip": "Assets\\Player\\script\\movement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:38:22.096Z",
+              "WhenOpened": "2025-04-03T13:41:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hudmanager.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\ui\\hudmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\hudmanager.cs",
+              "ToolTip": "D:\\joshua cotton\\github\\graveyard maze\\Assets\\ui\\hudmanager.cs",
+              "RelativeToolTip": "Assets\\ui\\hudmanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:00:24.868Z",
               "EditorCaption": ""
             }
           ]
