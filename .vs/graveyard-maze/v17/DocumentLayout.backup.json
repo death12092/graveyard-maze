@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\joshua cotton\\graveyard-maze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|d:\\joshua cotton\\graveyard-maze\\assets\\ui\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|d:\\joshua cotton\\graveyard-maze\\assets\\collition\\deathwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\collition\\deathwall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|d:\\joshua cotton\\graveyard-maze\\assets\\ui\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\pause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|D:\\joshua cotton\\graveyard-maze\\assets\\ui\\spawnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\spawnplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|D:\\joshua cotton\\graveyard-maze\\assets\\ui\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|D:\\joshua cotton\\graveyard-maze\\assets\\ui\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\hudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|D:\\joshua cotton\\graveyard-maze\\assets\\ui\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|D:\\joshua cotton\\graveyard-maze\\assets\\ui\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FC1C5D-B283-4F66-9420-61CF641E1FA0}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deathwall.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\collition\\deathwall.cs",
+              "RelativeDocumentMoniker": "Assets\\collition\\deathwall.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\collition\\deathwall.cs",
+              "RelativeToolTip": "Assets\\collition\\deathwall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:46:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "score.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\score.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\score.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\score.cs",
+              "RelativeToolTip": "Assets\\ui\\score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:40:36.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "spawnplayer.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\spawnplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\spawnplayer.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\spawnplayer.cs",
+              "RelativeToolTip": "Assets\\ui\\spawnplayer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:13:08.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pause.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\pause.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\pause.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\pause.cs",
+              "RelativeToolTip": "Assets\\ui\\pause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:47:25.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "resume.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\resume.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\resume.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\resume.cs",
+              "RelativeToolTip": "Assets\\ui\\resume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:46:01.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "exit.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\exit.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\exit.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\exit.cs",
+              "RelativeToolTip": "Assets\\ui\\exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:19:33.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "load.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\load.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\load.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\load.cs",
+              "RelativeToolTip": "Assets\\ui\\load.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:19:10.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hudmanager.cs",
+              "DocumentMoniker": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\hudmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\ui\\hudmanager.cs",
+              "ToolTip": "D:\\joshua cotton\\graveyard-maze\\Assets\\ui\\hudmanager.cs",
+              "RelativeToolTip": "Assets\\ui\\hudmanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:17:23.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

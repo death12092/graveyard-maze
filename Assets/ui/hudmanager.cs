@@ -8,6 +8,7 @@ public class hudmanager : MonoBehaviour
 {
     [SerializeField]
     public Canvas mainmenu;
+    [SerializeField]PlayerInputManager inputManager;
     private void Start()
     {
         addtoscreen(mainmenu);

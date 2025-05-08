@@ -1,18 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEditor.ShaderData;
 
 public class resume : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void hide()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        hudmanager.removefromsceane(this.gameObject.GetComponent<Canvas>());
     }
 }

@@ -44,6 +44,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d28816fbd3f1fce4192338aaa4430bce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  menus:
-  - {fileID: 7122490275982118804, guid: 4c122be139f0869459f488a35e9a68ec, type: 3}
-  - {fileID: 2378746006564528315, guid: b4e0e977693dd2447a0741255afc69e7, type: 3}
+  mainmenu: {fileID: 7122490275982118804, guid: 4c122be139f0869459f488a35e9a68ec, type: 3}

@@ -6,19 +6,25 @@ using UnityEngine.InputSystem;
 public class pause : MonoBehaviour
 {
     [SerializeField]
-    public Canvas pausse;
+    public Canvas pausetospawn;
+    private Canvas spawnedpause;
     public void pauuse(InputAction.CallbackContext context)
     {
-        Debug.Log("wirking");
-       
-        if (pausse != null)
+        if (context.started)
         {
-            hudmanager.addtoscreen(pausse);
+            
+            if (pausetospawn != null && spawnedpause == null)
+            {
+                spawnedpause = hudmanager.addtoscreen(pausetospawn);
+                Time.timeScale = 0;
+            }
+            else
+            {
+                hudmanager.removefromsceane(spawnedpause);
+                Time.timeScale = 1;
+            }
         }
-        else
-        {
-            hudmanager.removefromsceane(pausse);
-        }
+        
        
 
     }
