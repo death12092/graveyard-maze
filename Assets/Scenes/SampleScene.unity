@@ -1214,6 +1214,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2437795566845489681, guid: b94960a30bfa1114bb2e0cdcc7f3ac16, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3526093735918726496, guid: b94960a30bfa1114bb2e0cdcc7f3ac16, type: 3}
       propertyPath: m_Name
       value: endbox
